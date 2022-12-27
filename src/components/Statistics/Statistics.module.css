@@ -1,0 +1,22 @@
+.statistics {
+  margin-top: 30px;
+  width: 700px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  background-color: #e9f1ef;
+}
+
+.statList {
+  padding: 0;
+  text-align: center;
+  color: gray;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  list-style: none;
+}
